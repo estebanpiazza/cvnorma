@@ -1,0 +1,75 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Norma Malandrino Wolf
+    tagline: Estudiante Licenciatura Economía Empresial
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: normamalandrinowolf@gmail.com
+    phone: 012 345 6789
+    timezone: America/Argentina/Buenos_aires
+    citizenship: Lomas de Zamora
+    linkedin: norma-lorena-malandrino-wolf-729987214
+    
+
+    languages:
+      - idiom: Inglés
+        level: Profesional
+
+      - idiom: Español
+        level: Nativo
+
+    interests:
+      - item: Economía
+        link:
+
+career-profile:
+    title: Carrera Profesional
+    summary: |
+    Durante el período de aislamiento con mi familia decidimos reinventarnos abriendo una franquicia de productos gastronómicos, en la misma lleve adelante tareas de gestión, administración y económicas. Área donde apuntan mis estudios universitarios y dónde me gustaría seguir adquiriendo experiencia.
+education:
+    - degree: Licenciatura en Economía Empresarial
+      university: Universidad Nacional de Lanús
+      time: 2019 a la actualidad
+   
+experiences:
+    - role: Encargada
+      time: 2022 a la actualidad
+      company: Complejo "La Cancha"
+      details: |
+        Encargada de local de ropa deportiva, encargada de recursos humanos del local y tareas administrativas.
+
+    - role: Responsable administrativa
+      time: 2021-2022
+      company: Espacio Dalí
+      details: |
+        Responsable administrativa y atención al cliente. 
+
+    - role: Encargada de local 
+      time: 2020 - 2021
+      company: Dulce Dona
+      details: |
+        Encargada de local de tienda de comestibles y responsable administrativa.
+
+
+skills:
+    title: Habilidades
+
+    toolset:
+      - name: Gestión
+
+
+      - name: Liderazgo
+
+
+      - name: Economía
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
